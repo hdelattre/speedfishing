@@ -1,0 +1,260 @@
+[
+  {
+    "title": "Batman",
+    "categories": [
+      "DC Comics orphans",
+      "Fictional billionaires",
+      "Superhero detectives"
+    ],
+    "aliases": [
+      "Bruce Wayne",
+      "The Dark Knight",
+      "The Batman"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Batman"
+  },
+  {
+    "title": "Taj Mahal",
+    "categories": [
+      "Islamic mausoleums",
+      "Marble buildings",
+      "Tourist attractions in Agra"
+    ],
+    "aliases": [
+      "The Taj Mahal",
+      "Taj"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Taj_Mahal"
+  },
+  {
+    "title": "Neil Armstrong",
+    "categories": [
+      "Aviators from Ohio",
+      "People who have walked on the Moon",
+      "Apollo 11"
+    ],
+    "aliases": [
+      "Armstrong",
+      "Neil Alden Armstrong"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Neil_Armstrong"
+  },
+  {
+    "title": "Jurassic Park (film)",
+    "categories": [
+      "1993 films",
+      "Films directed by Steven Spielberg",
+      "Films about dinosaurs"
+    ],
+    "aliases": [
+      "Jurassic Park",
+      "Jurassic Park 1993"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Jurassic_Park_(film)"
+  },
+  {
+    "title": "Banana split",
+    "categories": [
+      "Food and drink introduced in 1904",
+      "Sundaes",
+      "Latrobe, Pennsylvania"
+    ],
+    "aliases": [
+      "Banana sundae"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Banana_split"
+  },
+  {
+    "title": "Kangaroo",
+    "categories": [
+      "Clawed herbivores",
+      "National symbols of Australia",
+      "Marsupials of Australia"
+    ],
+    "aliases": [
+      "Kangaroos",
+      "Roo"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Kangaroo"
+  },
+  {
+    "title": "Vincent van Gogh",
+    "categories": [
+      "Dutch flower artists",
+      "19th-century Dutch painters",
+      "Post-impressionist painters"
+    ],
+    "aliases": [
+      "Van Gogh",
+      "Vincent Willem van Gogh"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Vincent_van_Gogh"
+  },
+  {
+    "title": "Pac-Man",
+    "categories": [
+      "1980 video games",
+      "Maze chase games",
+      "Video games about ghosts"
+    ],
+    "aliases": [
+      "Pacman",
+      "Puck Man"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Pac-Man"
+  },
+  {
+    "title": "Sydney Opera House",
+    "categories": [
+      "Concrete shell structures",
+      "Venues of the 2000 Summer Olympics",
+      "Concert halls in Australia"
+    ],
+    "aliases": [
+      "Sydney Opera",
+      "The Sydney Opera House"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Sydney_Opera_House"
+  },
+  {
+    "title": "Lionel Messi",
+    "categories": [
+      "Ballon d'Or winners",
+      "FC Barcelona players",
+      "Argentina men's international footballers"
+    ],
+    "aliases": [
+      "Messi",
+      "Leo Messi"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Lionel_Messi"
+  },
+  {
+    "title": "Fortune cookie",
+    "categories": [
+      "American Chinese cuisine",
+      "Cuisine of the San Francisco Bay Area",
+      "Luck"
+    ],
+    "aliases": [
+      "Fortune cookies"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Fortune_cookie"
+  },
+  {
+    "title": "Frozen (2013 film)",
+    "categories": [
+      "Animated films about sisters",
+      "Animated films set in Scandinavia",
+      "Animated films based on The Snow Queen"
+    ],
+    "aliases": [
+      "Frozen",
+      "Disney Frozen"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Frozen_(2013_film)"
+  },
+  {
+    "title": "Pluto",
+    "categories": [
+      "Minor planets discovered in 1930",
+      "Discoveries by Clyde Tombaugh",
+      "Dwarf planets"
+    ],
+    "aliases": [
+      "134340 Pluto"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Pluto"
+  },
+  {
+    "title": "Mickey Mouse",
+    "categories": [
+      "Animated characters introduced in 1928",
+      "Characters created by Walt Disney",
+      "Film studio mascots"
+    ],
+    "aliases": [
+      "Mickey"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Mickey_Mouse"
+  },
+  {
+    "title": "Mount Vesuvius",
+    "categories": [
+      "Active volcanoes",
+      "Geography of Naples",
+      "Pompeii (ancient city)"
+    ],
+    "aliases": [
+      "Vesuvius",
+      "Mt Vesuvius",
+      "Vesuvio"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Mount_Vesuvius"
+  },
+  {
+    "title": "Winnie-the-Pooh",
+    "categories": [
+      "Literary characters introduced in 1924",
+      "East Sussex in fiction",
+      "Fictional teddy bears"
+    ],
+    "aliases": [
+      "Winnie the Pooh",
+      "Pooh",
+      "Pooh Bear",
+      "Winnie"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Winnie-the-Pooh"
+  },
+  {
+    "title": "Stonehenge",
+    "categories": [
+      "Summer solstice",
+      "Megalithic monuments in England",
+      "Stone circles in Wiltshire"
+    ],
+    "aliases": [],
+    "url": "https://en.wikipedia.org/wiki/Stonehenge"
+  },
+  {
+    "title": "Freddie Mercury",
+    "categories": [
+      "Sultanate of Zanzibar singers",
+      "Singers with a four-octave vocal range",
+      "Queen (band) members"
+    ],
+    "aliases": [
+      "Mercury",
+      "Freddy Mercury",
+      "Freddie",
+      "Farrokh Bulsara"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Freddie_Mercury"
+  },
+  {
+    "title": "The Wizard of Oz (1939 film)",
+    "categories": [
+      "1939 musical films",
+      "Films about tornadoes",
+      "Films set in Kansas"
+    ],
+    "aliases": [
+      "The Wizard of Oz",
+      "Wizard of Oz"
+    ],
+    "url": "https://en.wikipedia.org/wiki/The_Wizard_of_Oz_(1939_film)"
+  },
+  {
+    "title": "Wikipedia",
+    "categories": [
+      "Internet properties established in 2001",
+      "Jimmy Wales",
+      "Online encyclopedias"
+    ],
+    "aliases": [
+      "English Wikipedia"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Wikipedia"
+  }
+]

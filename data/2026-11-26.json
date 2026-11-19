@@ -1,0 +1,242 @@
+[
+  {
+    "title": "Steve Jobs",
+    "categories": [
+      "Directors of Apple Inc.",
+      "Pixar people",
+      "American technology company founders"
+    ],
+    "aliases": [
+      "Jobs"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Steve_Jobs"
+  },
+  {
+    "title": "Petra",
+    "categories": [
+      "Nabataean architecture",
+      "Former populated places in Jordan",
+      "Rock-cut tombs"
+    ],
+    "aliases": [],
+    "url": "https://en.wikipedia.org/wiki/Petra"
+  },
+  {
+    "title": "Simone Biles",
+    "categories": [
+      "American female artistic gymnasts",
+      "Medalists at the 2016 Summer Olympics",
+      "Sportspeople from Spring, Texas"
+    ],
+    "aliases": [
+      "Biles"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Simone_Biles"
+  },
+  {
+    "title": "Foucault pendulum",
+    "categories": [
+      "Physics experiments",
+      "1851 introductions",
+      "French inventions"
+    ],
+    "aliases": [
+      "Foucault's pendulum"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Foucault_pendulum"
+  },
+  {
+    "title": "Dolly Parton",
+    "categories": [
+      "Philanthropists from Tennessee",
+      "Actresses from Tennessee",
+      "American country singer-songwriters"
+    ],
+    "aliases": [
+      "Dolly",
+      "Parton"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Dolly_Parton"
+  },
+  {
+    "title": "Ludwig van Beethoven",
+    "categories": [
+      "Musicians from Bonn",
+      "Pupils of Joseph Haydn",
+      "Deaf classical musicians"
+    ],
+    "aliases": [
+      "Beethoven",
+      "Ludwig Beethoven"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Ludwig_van_Beethoven"
+  },
+  {
+    "title": "Yoda",
+    "categories": [
+      "Film characters introduced in 1980",
+      "Fictional hermits",
+      "Star Wars Jedi characters"
+    ],
+    "aliases": [
+      "Master Yoda"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Yoda"
+  },
+  {
+    "title": "The Truman Show",
+    "categories": [
+      "Parodies of reality television",
+      "Films directed by Peter Weir",
+      "1998 films"
+    ],
+    "aliases": [
+      "Truman Show"
+    ],
+    "url": "https://en.wikipedia.org/wiki/The_Truman_Show"
+  },
+  {
+    "title": "Sagrada Família",
+    "categories": [
+      "Roman Catholic church buildings in Barcelona",
+      "Modernisme architecture in Barcelona",
+      "Antoni Gaudí buildings"
+    ],
+    "aliases": [
+      "La Sagrada Familia",
+      "Sagrada Familia basilica"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Sagrada_Fam%C3%ADlia"
+  },
+  {
+    "title": "Jimi Hendrix",
+    "categories": [
+      "20th-century American guitarists",
+      "Musicians from Seattle",
+      "Psychedelic rock musicians"
+    ],
+    "aliases": [
+      "Hendrix",
+      "Jimmy Hendrix"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Jimi_Hendrix"
+  },
+  {
+    "title": "Sun",
+    "categories": [
+      "Light sources",
+      "Solar System",
+      "G-type main-sequence stars"
+    ],
+    "aliases": [
+      "The Sun",
+      "Sol"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Sun"
+  },
+  {
+    "title": "Cristiano Ronaldo",
+    "categories": [
+      "21st-century Portuguese sportsmen",
+      "Real Madrid CF players",
+      "Manchester United F.C. players"
+    ],
+    "aliases": [
+      "Ronaldo",
+      "CR7"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Cristiano_Ronaldo"
+  },
+  {
+    "title": "Mary Poppins (film)",
+    "categories": [
+      "Films about nannies",
+      "Films set in London",
+      "Films produced by Walt Disney"
+    ],
+    "aliases": [
+      "Mary Poppins"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Mary_Poppins_(film)"
+  },
+  {
+    "title": "Coelacanth",
+    "categories": [
+      "Marine fish of South Africa",
+      "Extant Early Devonian first appearances",
+      "1938 in biology"
+    ],
+    "aliases": [],
+    "url": "https://en.wikipedia.org/wiki/Coelacanth"
+  },
+  {
+    "title": "Tiramisu",
+    "categories": [
+      "Coffee dishes",
+      "Cuisine of Veneto",
+      "Custard desserts"
+    ],
+    "aliases": [],
+    "url": "https://en.wikipedia.org/wiki/Tiramisu"
+  },
+  {
+    "title": "Thanksgiving (United States)",
+    "categories": [
+      "Federal holidays in the United States",
+      "Thursday observances",
+      "Holidays related to the American Civil War"
+    ],
+    "aliases": [
+      "Thanksgiving",
+      "Thanksgiving Day"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Thanksgiving_(United_States)"
+  },
+  {
+    "title": "Moby-Dick",
+    "categories": [
+      "Whaling in the United States",
+      "Novels by Herman Melville",
+      "1851 American novels"
+    ],
+    "aliases": [],
+    "url": "https://en.wikipedia.org/wiki/Moby-Dick"
+  },
+  {
+    "title": "Apollo 13 (film)",
+    "categories": [
+      "American space adventure films",
+      "Films directed by Ron Howard",
+      "1995 films"
+    ],
+    "aliases": [
+      "Apollo 13"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Apollo_13_(film)"
+  },
+  {
+    "title": "Mary Shelley",
+    "categories": [
+      "19th-century English women novelists",
+      "English science fiction writers",
+      "Writers of Gothic fiction"
+    ],
+    "aliases": [
+      "Shelley",
+      "Mary Wollstonecraft Shelley"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Mary_Shelley"
+  },
+  {
+    "title": "Empire State Building",
+    "categories": [
+      "1931 establishments in New York City",
+      "Fifth Avenue",
+      "Art Deco skyscrapers"
+    ],
+    "aliases": [
+      "Empire State"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Empire_State_Building"
+  }
+]

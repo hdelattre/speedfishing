@@ -1,0 +1,243 @@
+[
+  {
+    "title": "Gelato",
+    "categories": [
+      "Italian words and phrases",
+      "Frozen desserts",
+      "Ice cream"
+    ],
+    "aliases": [],
+    "url": "https://en.wikipedia.org/wiki/Gelato"
+  },
+  {
+    "title": "Louvre",
+    "categories": [
+      "Museums established in 1793",
+      "National museums of France",
+      "Art museums and galleries in Paris"
+    ],
+    "aliases": [
+      "The Louvre",
+      "Louvre Museum",
+      "Musée du Louvre",
+      "Louvre Palace Museum"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Louvre"
+  },
+  {
+    "title": "WALL-E",
+    "categories": [
+      "Animated films about robots",
+      "Fiction about waste",
+      "Pixar animated films"
+    ],
+    "aliases": [],
+    "url": "https://en.wikipedia.org/wiki/WALL-E"
+  },
+  {
+    "title": "Antikythera mechanism",
+    "categories": [
+      "Mechanical calculators",
+      "Ancient Greek astronomy",
+      "1902 archaeological discoveries"
+    ],
+    "aliases": [
+      "Antikythera",
+      "Antikythira mechanism"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Antikythera_mechanism"
+  },
+  {
+    "title": "Scrabble",
+    "categories": [
+      "Board games introduced in 1938",
+      "Mattel games",
+      "Word board games"
+    ],
+    "aliases": [],
+    "url": "https://en.wikipedia.org/wiki/Scrabble"
+  },
+  {
+    "title": "Stephen Hawking",
+    "categories": [
+      "British wheelchair users",
+      "20th-century English physicists",
+      "Deaths from motor neuron disease in England"
+    ],
+    "aliases": [
+      "Hawking"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Stephen_Hawking"
+  },
+  {
+    "title": "Benjamin Franklin",
+    "categories": [
+      "Founding Fathers of the United States",
+      "Printers from the Thirteen Colonies",
+      "18th-century American diplomats"
+    ],
+    "aliases": [
+      "Ben Franklin"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Benjamin_Franklin"
+  },
+  {
+    "title": "Beauty and the Beast (1991 film)",
+    "categories": [
+      "Walt Disney Animation Studios films",
+      "Animated films set in castles",
+      "1991 directorial debut films"
+    ],
+    "aliases": [
+      "Beauty and the Beast"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Beauty_and_the_Beast_(1991_film)"
+  },
+  {
+    "title": "Tardigrade",
+    "categories": [
+      "Space-flown life",
+      "Polyextremophiles",
+      "Microscopic animals"
+    ],
+    "aliases": [
+      "Water bear",
+      "Moss piglet"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Tardigrade"
+  },
+  {
+    "title": "Oktoberfest",
+    "categories": [
+      "Tourist attractions in Munich",
+      "Beer festivals in Germany",
+      "Ludwig I of Bavaria"
+    ],
+    "aliases": [
+      "Octoberfest"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Oktoberfest"
+  },
+  {
+    "title": "Salvador Dalí",
+    "categories": [
+      "Mathematical artists",
+      "20th-century Catalan painters",
+      "Spanish surrealist artists"
+    ],
+    "aliases": [
+      "Dali"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Salvador_Dal%C3%AD"
+  },
+  {
+    "title": "The Cat in the Hat",
+    "categories": [
+      "Children's books about fish",
+      "Short stories about talking animals",
+      "Books by Dr. Seuss"
+    ],
+    "aliases": [
+      "Cat in the Hat"
+    ],
+    "url": "https://en.wikipedia.org/wiki/The_Cat_in_the_Hat"
+  },
+  {
+    "title": "Jackie Robinson",
+    "categories": [
+      "Negro league baseball home run champions",
+      "Activists for African-American civil rights",
+      "Brooklyn Dodgers players"
+    ],
+    "aliases": [
+      "Robinson"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Jackie_Robinson"
+  },
+  {
+    "title": "Guggenheim Museum Bilbao",
+    "categories": [
+      "Frank Gehry buildings",
+      "Expressionist architecture",
+      "Cultural tourism in Spain"
+    ],
+    "aliases": [
+      "Guggenheim Bilbao",
+      "Bilbao Guggenheim",
+      "Guggenheim Museum in Bilbao"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Guggenheim_Museum_Bilbao"
+  },
+  {
+    "title": "Barbie",
+    "categories": [
+      "Products introduced in 1959",
+      "Fictional models",
+      "Fashion dolls"
+    ],
+    "aliases": [
+      "Barbie doll"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Barbie"
+  },
+  {
+    "title": "Elvis Presley",
+    "categories": [
+      "Sun Records artists",
+      "American rockabilly musicians",
+      "Singers from Memphis, Tennessee"
+    ],
+    "aliases": [
+      "Elvis",
+      "Presley"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Elvis_Presley"
+  },
+  {
+    "title": "Aurora",
+    "categories": [
+      "Polar regions of the Earth",
+      "Electrical phenomena",
+      "Atmospheric optical phenomena"
+    ],
+    "aliases": [
+      "Northern lights",
+      "Southern lights",
+      "Aurora borealis",
+      "Aurora australis"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Aurora"
+  },
+  {
+    "title": "Bugs Bunny",
+    "categories": [
+      "Looney Tunes characters",
+      "Anthropomorphic rabbits and hares",
+      "Culture of the United States"
+    ],
+    "aliases": [
+      "Bugs"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Bugs_Bunny"
+  },
+  {
+    "title": "Marco Polo",
+    "categories": [
+      "Venetian Roman Catholics",
+      "Italian expatriates in China",
+      "Explorers from the Republic of Venice"
+    ],
+    "aliases": [],
+    "url": "https://en.wikipedia.org/wiki/Marco_Polo"
+  },
+  {
+    "title": "Cast Away",
+    "categories": [
+      "American survival films",
+      "Films set on uninhabited islands",
+      "Films directed by Robert Zemeckis"
+    ],
+    "aliases": [],
+    "url": "https://en.wikipedia.org/wiki/Cast_Away"
+  }
+]

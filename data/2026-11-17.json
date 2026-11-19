@@ -1,0 +1,263 @@
+[
+  {
+    "title": "Eiffel Tower",
+    "categories": [
+      "Former world's tallest buildings",
+      "Exposition Universelle (1889)",
+      "Tourist attractions in Paris"
+    ],
+    "aliases": [
+      "Eiffel",
+      "The Eiffel Tower",
+      "La tour Eiffel"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Eiffel_Tower"
+  },
+  {
+    "title": "Giant panda",
+    "categories": [
+      "Clawed herbivores",
+      "Mammals of China",
+      "National symbols of China"
+    ],
+    "aliases": [
+      "Panda",
+      "Panda bear",
+      "Giant panda bear"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Giant_panda"
+  },
+  {
+    "title": "Albert Einstein",
+    "categories": [
+      "Nobel laureates in Physics",
+      "Patent examiners",
+      "German relativity theorists"
+    ],
+    "aliases": [
+      "Einstein"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Albert_Einstein"
+  },
+  {
+    "title": "Finding Nemo",
+    "categories": [
+      "Pixar animated films",
+      "Animated films set in Australia",
+      "Animated films about fish"
+    ],
+    "aliases": [
+      "Nemo"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Finding_Nemo"
+  },
+  {
+    "title": "Sushi",
+    "categories": [
+      "Japanese rice dishes",
+      "Sliced foods",
+      "Uncooked fish dishes"
+    ],
+    "aliases": [],
+    "url": "https://en.wikipedia.org/wiki/Sushi"
+  },
+  {
+    "title": "Mount Everest",
+    "categories": [
+      "China–Nepal border",
+      "Highest points of countries",
+      "Seven Summits"
+    ],
+    "aliases": [
+      "Everest",
+      "Mt Everest",
+      "Sagarmatha",
+      "Chomolungma"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Mount_Everest"
+  },
+  {
+    "title": "Mario",
+    "categories": [
+      "Donkey Kong characters",
+      "Video game mascots",
+      "Fictional plumbers"
+    ],
+    "aliases": [
+      "Super Mario"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Mario"
+  },
+  {
+    "title": "Serena Williams",
+    "categories": [
+      "American female tennis players",
+      "French Open champions",
+      "Sportspeople from Saginaw, Michigan"
+    ],
+    "aliases": [
+      "Serena",
+      "Williams"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Serena_Williams"
+  },
+  {
+    "title": "Titanic",
+    "categories": [
+      "Ships built in Belfast",
+      "Olympic-class ocean liners",
+      "Ships sunk by icebergs"
+    ],
+    "aliases": [
+      "RMS Titanic",
+      "The Titanic"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Titanic"
+  },
+  {
+    "title": "Rubik's Cube",
+    "categories": [
+      "Hungarian inventions",
+      "1980s fads and trends",
+      "Logic puzzles"
+    ],
+    "aliases": [
+      "Rubiks cube",
+      "Rubix cube",
+      "Rubiks",
+      "Rubix",
+      "Magic cube"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Rubik's_Cube"
+  },
+  {
+    "title": "Mona Lisa",
+    "categories": [
+      "Portraits of women",
+      "Portrait paintings in the Louvre",
+      "Paintings by Leonardo da Vinci"
+    ],
+    "aliases": [
+      "The Mona Lisa",
+      "La Gioconda",
+      "La Joconde"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Mona_Lisa"
+  },
+  {
+    "title": "The Beatles",
+    "categories": [
+      "British Invasion artists",
+      "English musical quartets",
+      "Rock music groups from Liverpool"
+    ],
+    "aliases": [
+      "Beatles",
+      "Fab Four",
+      "The Fab Four"
+    ],
+    "url": "https://en.wikipedia.org/wiki/The_Beatles"
+  },
+  {
+    "title": "Platypus",
+    "categories": [
+      "Semiaquatic mammals",
+      "Mammals of Tasmania",
+      "Venomous mammals"
+    ],
+    "aliases": [
+      "Duck-billed platypus"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Platypus"
+  },
+  {
+    "title": "Apollo 11",
+    "categories": [
+      "1969 on the Moon",
+      "Buzz Aldrin",
+      "Neil Armstrong"
+    ],
+    "aliases": [
+      "Apollo eleven",
+      "First moon landing",
+      "1969 moon landing"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Apollo_11"
+  },
+  {
+    "title": "Pizza",
+    "categories": [
+      "Flatbread dishes",
+      "Cheese dishes",
+      "Neapolitan cuisine"
+    ],
+    "aliases": [],
+    "url": "https://en.wikipedia.org/wiki/Pizza"
+  },
+  {
+    "title": "Sherlock Holmes",
+    "categories": [
+      "Fictional violinists",
+      "Literary characters introduced in 1887",
+      "Fictional British detectives"
+    ],
+    "aliases": [
+      "Sherlock",
+      "Holmes"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Sherlock_Holmes"
+  },
+  {
+    "title": "Statue of Liberty",
+    "categories": [
+      "Diplomatic gifts",
+      "Copper sculptures in the United States",
+      "Sculptures of women in New York City"
+    ],
+    "aliases": [
+      "Lady Liberty",
+      "The Statue of Liberty",
+      "Liberty Enlightening the World"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Statue_of_Liberty"
+  },
+  {
+    "title": "Michael Jordan",
+    "categories": [
+      "Shoe designers",
+      "NBA Most Valuable Player Award winners",
+      "Chicago Bulls players"
+    ],
+    "aliases": [
+      "Jordan",
+      "MJ",
+      "Air Jordan"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Michael_Jordan"
+  },
+  {
+    "title": "Minecraft",
+    "categories": [
+      "Sandbox games",
+      "Video games developed in Sweden",
+      "Video games with voxel graphics"
+    ],
+    "aliases": [
+      "Minecraft Java Edition"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Minecraft"
+  },
+  {
+    "title": "Hubble Space Telescope",
+    "categories": [
+      "Spacecraft launched in 1990",
+      "Lockheed Martin spacecraft",
+      "Great Observatories program"
+    ],
+    "aliases": [
+      "Hubble",
+      "HST"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Hubble_Space_Telescope"
+  }
+]

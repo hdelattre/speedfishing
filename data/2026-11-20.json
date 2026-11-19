@@ -1,0 +1,242 @@
+[
+  {
+    "title": "Nachos",
+    "categories": [
+      "Tex-Mex cuisine",
+      "Cheese dishes",
+      "Tortilla-based dishes"
+    ],
+    "aliases": [],
+    "url": "https://en.wikipedia.org/wiki/Nachos"
+  },
+  {
+    "title": "Nile",
+    "categories": [
+      "Geography of ancient Egypt",
+      "Rivers of South Sudan",
+      "International rivers of Africa"
+    ],
+    "aliases": [
+      "Nile River",
+      "The Nile"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Nile"
+  },
+  {
+    "title": "Winston Churchill",
+    "categories": [
+      "20th-century prime ministers of the United Kingdom",
+      "Nobel laureates in Literature",
+      "Admiralty personnel of World War II"
+    ],
+    "aliases": [
+      "Churchill"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Winston_Churchill"
+  },
+  {
+    "title": "Guernica (Picasso)",
+    "categories": [
+      "Paintings by Pablo Picasso",
+      "Spanish Civil War in popular culture",
+      "1937 paintings"
+    ],
+    "aliases": [
+      "Guernica"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Guernica_(Picasso)"
+  },
+  {
+    "title": "Isaac Newton",
+    "categories": [
+      "Scientific Revolution",
+      "History of calculus",
+      "English physicists"
+    ],
+    "aliases": [
+      "Newton",
+      "Sir Isaac Newton"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Isaac_Newton"
+  },
+  {
+    "title": "Polar bear",
+    "categories": [
+      "Carnivorans of North America",
+      "Marine mammals",
+      "Mammals of the Arctic"
+    ],
+    "aliases": [
+      "Ice bear"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Polar_bear"
+  },
+  {
+    "title": "Beyoncé",
+    "categories": [
+      "Destiny's Child members",
+      "Businesspeople from Houston",
+      "American contemporary R&B singers"
+    ],
+    "aliases": [
+      "Beyonce Knowles"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Beyonc%C3%A9"
+  },
+  {
+    "title": "Shrek (film)",
+    "categories": [
+      "Animated films about ogres",
+      "DreamWorks Animation films",
+      "Fairy tale parody films"
+    ],
+    "aliases": [
+      "Shrek"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Shrek_(film)"
+  },
+  {
+    "title": "Pompeii",
+    "categories": [
+      "Ruins in Italy",
+      "Destroyed populated places",
+      "Mount Vesuvius"
+    ],
+    "aliases": [
+      "Pompei"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Pompeii"
+  },
+  {
+    "title": "Tiger Woods",
+    "categories": [
+      "Stanford Cardinal men's golfers",
+      "Men's Career Grand Slam champion golfers",
+      "African-American golfers"
+    ],
+    "aliases": [
+      "Tiger",
+      "Woods"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Tiger_Woods"
+  },
+  {
+    "title": "Chewbacca",
+    "categories": [
+      "Film sidekicks",
+      "Fictional smugglers",
+      "Star Wars Skywalker Saga characters"
+    ],
+    "aliases": [
+      "Chewie",
+      "Chewy"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Chewbacca"
+  },
+  {
+    "title": "YouTube",
+    "categories": [
+      "Video hosting",
+      "Google acquisitions",
+      "American companies established in 2005"
+    ],
+    "aliases": [],
+    "url": "https://en.wikipedia.org/wiki/YouTube"
+  },
+  {
+    "title": "The Very Hungry Caterpillar",
+    "categories": [
+      "Picture books by Eric Carle",
+      "Children's books about insects",
+      "American picture books"
+    ],
+    "aliases": [
+      "Very Hungry Caterpillar"
+    ],
+    "url": "https://en.wikipedia.org/wiki/The_Very_Hungry_Caterpillar"
+  },
+  {
+    "title": "Jane Goodall",
+    "categories": [
+      "Writers about Africa",
+      "Animal cognition writers",
+      "Women primatologists"
+    ],
+    "aliases": [
+      "Goodall"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Jane_Goodall"
+  },
+  {
+    "title": "The Karate Kid (1984 film)",
+    "categories": [
+      "Martial arts tournament films",
+      "Films directed by John G. Avildsen",
+      "Films about school bullying"
+    ],
+    "aliases": [
+      "The Karate Kid",
+      "Karate Kid"
+    ],
+    "url": "https://en.wikipedia.org/wiki/The_Karate_Kid_(1984_film)"
+  },
+  {
+    "title": "Sesame Street",
+    "categories": [
+      "1969 English-language television series debuts",
+      "American preschool education television series",
+      "American television shows featuring puppetry"
+    ],
+    "aliases": [],
+    "url": "https://en.wikipedia.org/wiki/Sesame_Street"
+  },
+  {
+    "title": "Joan of Arc",
+    "categories": [
+      "French prisoners of war in the Hundred Years' War",
+      "15th-century Christian saints",
+      "People executed by the Kingdom of England by burning"
+    ],
+    "aliases": [
+      "Jeanne d'Arc"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Joan_of_Arc"
+  },
+  {
+    "title": "Bobsleigh",
+    "categories": [
+      "Winter Olympic sports",
+      "Sliding vehicles",
+      "Sledding"
+    ],
+    "aliases": [
+      "Bobsled"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Bobsleigh"
+  },
+  {
+    "title": "Grace Hopper",
+    "categories": [
+      "Programming language designers",
+      "Female United States Navy officers",
+      "American computer scientists"
+    ],
+    "aliases": [
+      "Hopper",
+      "Grace Murray Hopper"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Grace_Hopper"
+  },
+  {
+    "title": "Burj Khalifa",
+    "categories": [
+      "Neo-futurist architecture",
+      "Skidmore, Owings & Merrill buildings",
+      "Residential skyscrapers in Dubai"
+    ],
+    "aliases": [
+      "Burj Dubai"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Burj_Khalifa"
+  }
+]

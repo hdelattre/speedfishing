@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Rosetta Stone",
+    "categories": [
+      "1799 archaeological discoveries",
+      "History of translation",
+      "Ancient Egyptian objects in the British Museum"
+    ],
+    "aliases": [],
+    "url": "https://en.wikipedia.org/wiki/Rosetta_Stone"
+  },
+  {
+    "title": "Spirited Away",
+    "categories": [
+      "2001 anime films",
+      "Animated films about pigs",
+      "Films directed by Hayao Miyazaki"
+    ],
+    "aliases": [
+      "Sen to Chihiro no Kamikakushi"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Spirited_Away"
+  },
+  {
+    "title": "Axolotl",
+    "categories": [
+      "Regenerative medicine",
+      "Endemic amphibians of Mexico",
+      "Mole salamanders"
+    ],
+    "aliases": [
+      "Mexican walking fish"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Axolotl"
+  },
+  {
+    "title": "Theremin",
+    "categories": [
+      "Electronic musical instruments",
+      "Continuous pitch instruments",
+      "Soviet inventions"
+    ],
+    "aliases": [
+      "Thereminophone",
+      "Thereminovox"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Theremin"
+  },
+  {
+    "title": "Hedy Lamarr",
+    "categories": [
+      "Actresses from Vienna",
+      "Metro-Goldwyn-Mayer contract players",
+      "Radio pioneers"
+    ],
+    "aliases": [
+      "Lamarr",
+      "Hedy Lamar"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Hedy_Lamarr"
+  },
+  {
+    "title": "Machu Picchu",
+    "categories": [
+      "1911 archaeological discoveries",
+      "Citadels",
+      "Ruins in Peru"
+    ],
+    "aliases": [],
+    "url": "https://en.wikipedia.org/wiki/Machu_Picchu"
+  },
+  {
+    "title": "Ratatouille",
+    "categories": [
+      "Cuisine of Provence",
+      "Eggplant dishes",
+      "French stews"
+    ],
+    "aliases": [],
+    "url": "https://en.wikipedia.org/wiki/Ratatouille"
+  },
+  {
+    "title": "Curling",
+    "categories": [
+      "Sports originating in Scotland",
+      "Precision sports",
+      "Winter Olympic sports"
+    ],
+    "aliases": [],
+    "url": "https://en.wikipedia.org/wiki/Curling"
+  },
+  {
+    "title": "Ada Lovelace",
+    "categories": [
+      "19th-century British women mathematicians",
+      "Family of Lord Byron",
+      "English computer programmers"
+    ],
+    "aliases": [
+      "Lovelace",
+      "Ada Byron"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Ada_Lovelace"
+  },
+  {
+    "title": "Capybara",
+    "categories": [
+      "Rodents of Brazil",
+      "Semiaquatic mammals",
+      "Internet memes introduced in the 2020s"
+    ],
+    "aliases": [
+      "Capibara"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Capybara"
+  },
+  {
+    "title": "Alcatraz Island",
+    "categories": [
+      "Forts in California",
+      "Landmarks in San Francisco",
+      "Prison museums in California"
+    ],
+    "aliases": [
+      "Alcatraz",
+      "The Rock"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Alcatraz_Island"
+  },
+  {
+    "title": "Hokusai",
+    "categories": [
+      "1849 deaths",
+      "Japanese wood engravers",
+      "Japanese landscape painters"
+    ],
+    "aliases": [
+      "Katsushika Hokusai"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Hokusai"
+  }
+]

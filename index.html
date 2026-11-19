@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <meta name="theme-color" content="#152631" media="(prefers-color-scheme: dark)">
+  <meta name="theme-color" content="#f7f4e9" media="(prefers-color-scheme: light)">
+  <meta name="description" content="Guess 20 Wikipedia articles from their categories. Ten seconds per catch, one new set each day.">
+  <title>Speedfishing — A daily Wikipedia game</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3Crect width='40' height='40' rx='7' fill='%23203543'/%3E%3Cpath d='M5 20q11-15 23 0-12 15-23 0m22 0 8-8v16z' fill='%23fae9c7'/%3E%3Ccircle cx='12' cy='19' r='2' fill='%23203543'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="style.css">
+  <script type="module" src="game.js"></script>
+</head>
+<body>
+<header>
+  <nav aria-label="Main navigation">
+    <a id="daily-nav" href="./" aria-current="page">Daily game</a>
+    <a id="archive-nav" href="?view=archive">Archive</a>
+    <a id="stats-nav" href="?view=stats">Stats</a>
+  </nav>
+</header>
+<main>
+  <section id="home" class="hero">
+    <div>
+      <p id="issue-label" class="meta"></p>
+      <h1>Speedfishing</h1>
+      <p class="deck">Name 20 Wikipedia articles from their categories. Ten seconds each.</p>
+      <button class="primary" id="start" disabled>Loading…</button>
+    </div>
+    <svg class="trout" viewBox="0 0 1050 700" aria-hidden="true">
+      <defs>
+        <filter id="trout-negative" color-interpolation-filters="sRGB">
+          <feColorMatrix values="-1.06 0 0 0 1.03  0 -1.06 0 0 1.03  0 0 -1.06 0 1.03  0 0 0 1 0"/>
+        </filter>
+        <mask id="trout-ink" maskUnits="userSpaceOnUse" x="0" y="0" width="1050" height="700">
+          <image href="assets/trout.webp" width="1050" height="700" filter="url(#trout-negative)"/>
+        </mask>
+      </defs>
+      <rect width="1050" height="700" fill="currentColor" mask="url(#trout-ink)"/>
+    </svg>
+  </section>
+  <section id="game" class="page" hidden aria-label="Timed game">
+    <div class="round-header">
+      <h1 id="round" class="meta"></h1>
+      <span id="clock" class="clock" role="timer" aria-label="Time remaining">10s</span>
+    </div>
+    <ul id="clues" aria-label="Wikipedia categories"></ul>
+    <div class="guess-row">
+      <input id="guess" aria-label="Article title" type="text" placeholder="Article title" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false">
+      <button id="pass">Pass</button>
+    </div>
+    <p id="feedback" role="status"></p>
+  </section>
+  <section id="results" class="page" hidden>
+    <p id="result-label" class="meta"></p>
+    <h1><span id="final-score"></span> of 20 caught</h1>
+    <div class="actions">
+      <button id="share" class="primary">Copy result</button>
+      <button id="again">Play again</button>
+    </div>
+    <p id="share-status" role="status"></p>
+    <details id="answers">
+      <summary>Review answers</summary>
+      <ol id="review"></ol>
+    </details>
+  </section>
+  <section id="archive" class="page" hidden>
+    <h1>Archive</h1>
+    <ul id="days"></ul>
+  </section>
+  <section id="stats" class="page" aria-label="Stats" hidden>
+    <p id="stats-note" class="meta"></p>
+    <a id="stats-play" href="./" hidden>Play the daily game</a>
+    <div id="stats-content" hidden>
+      <dl class="totals">
+        <div><dt>Games finished</dt><dd id="stat-games"></dd></div>
+        <div><dt>Average score</dt><dd><span id="stat-average"></span><small>/20</small></dd></div>
+        <div><dt>Best score</dt><dd><span id="stat-best"></span><small>/20</small></dd></div>
+      </dl>
+      <h2>Games by score</h2>
+      <div id="score-chart" role="img"></div>
+      <h2>Game history</h2>
+      <table class="game-history">
+        <thead><tr><th scope="col">Game</th><th scope="col">Caught</th><th scope="col">Passed</th><th scope="col">Timed out</th></tr></thead>
+        <tbody id="recent-games"></tbody>
+        <tbody id="older-games" hidden></tbody>
+        <tfoot><tr><th scope="row">All games</th><td id="total-caught"></td><td id="total-passed"></td><td id="total-expired"></td></tr></tfoot>
+      </table>
+      <button id="more-history" aria-controls="older-games" aria-expanded="false" hidden></button>
+    </div>
+  </section>
+  <p id="error" role="alert" hidden></p>
+  <noscript>Enable JavaScript to play Speedfishing.</noscript>
+</main>
+<footer>Categories from <a href="https://en.wikipedia.org/">Wikipedia</a> · <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA</a></footer>
+</body>
+</html>
